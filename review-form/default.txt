@@ -1,0 +1,78 @@
+Review Form
+===========
+
+Comments For Editor Only
+[TEXT AREA]
+(Please use this box only for comments that you want to be withheld from authors. Use as many lines as needed.)
+
+EVERYTHING BELOW THIS LINE WILL BE RETURNED TO THE AUTHORS
+----------
+
+Reviewer's Name (note that, as a journal's policy, we encourage open reviews as a default. Select "Remain anonymous" if you don't want your identity to be revealed to authors)
+[ ] Remain Anonymous
+If you check this option your name will not be disclosed.
+
+Overall impression *:
+- Excellent
+- Good
+- Average
+- Weak
+- Bad
+- Don't Know
+Please indicate your overall impression of the paper.
+
+Suggested decision *
+- Accept
+- Undecided
+- Reject
+
+CONTENT
+
+Technical Quality of the paper *
+- Excellent
+- Good
+- Average
+- Weak
+- Bad
+- Don't Know
+
+Originality of the paper *
+- Yes
+- Yes, but limited
+- No
+
+Adequacy of the bibliography *
+- Yes
+- Yes, but see detailed comments
+- No
+
+PRESENTATION
+
+Adequacy of the abstract *
+- Yes
+- No
+
+Introduction: background and motivation *
+- Good
+- Limited
+- Bad
+
+Organization of the paper *
+- Satisfactory
+- Needs improvement
+- Poor
+
+Level of English *
+- Satisfactory
+- Unsatisfactory
+
+Overall presentation *
+- Excellent
+- Good
+- Average
+- Weak
+- Bad
+
+Detailed Comments *
+[TEXT AREA]
+
