@@ -1,0 +1,83 @@
+Review Form
+===========
+
+Your name will appear here. (We encourage you to provide an open non-anonymous
+review. However, you can check the box below if you don't want your name to be
+publicly associated to this review.)
+
+[ ] I want to remain anonymous. My reasons (optional): [TEXT FIELD]
+
+Overall impression *:
+- Excellent
+- Good
+- Average
+- Weak
+- Bad
+
+Suggested decision *:
+- Accept
+- Undecided
+- Reject
+
+Reviewer's confidence *:
+- High
+- Medium
+- Low
+
+Technical quality *:
+- Excellent
+- Good
+- Average
+- Weak
+- Bad
+- Unable to judge
+
+Relevance and importance of research question *:
+- Clear relevance
+- Limited relevance
+- Lack of relevance
+
+Novelty *:
+- Clear novelty
+- Limited novelty
+- Lack of novelty
+
+Presentation *:
+- Excellent
+- Good
+- Average
+- Weak
+- Bad
+
+Data availability *:
+- All used and produced data are openly available in established data
+  repositories
+- All used and produced data are openly available in established data
+  repositories, except for data that cannot be made public due to privacy
+  concerns
+- Not all used and produced data are openly available in established data
+  repositories; authors need to fix this
+
+Summary of paper in a few sentences *:
+[TEXT AREA]
+
+Reasons to accept *:
+[TEXT AREA]
+
+Reasons to reject *:
+[TEXT AREA]
+
+Further comments *:
+[TEXT AREA]
+
+By submitting this form, you accept that the content above will be made public
+under CC-BY (https://creativecommons.org/licenses/by/4.0/) license, and that
+your name and ORCID identifier will be publicly linked to it (unless you opted
+to stay anonymous).
+
+----------
+EVERYTHING ABOVE THIS LINE WILL BE RETURNED TO THE AUTHORS.
+
+Comments to the editor (optional):
+[TEXT AREA]
+
