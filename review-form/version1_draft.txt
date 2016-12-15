@@ -54,6 +54,14 @@ to read, clearly structured, and free of major errors in grammar or style?) *:
 - Weak
 - Bad
 
+Length of the manuscript *?
+- This manuscript is too long for what it presents and should therefore be
+  considerably shortened (below the general length limit)
+- The length of this manuscript is about right
+- The authors need to elaborate more on certain aspects and the manuscript
+  should therefore be extended (if the general length limit is already reached,
+  I urge the editor to allow for an exception)
+
 Data availability *:
 - All used and produced data are openly available in established data
   repositories
