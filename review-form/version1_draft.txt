@@ -24,7 +24,21 @@ Reviewer's confidence *:
 - Medium
 - Low
 
-Technical quality *:
+Significance (Does the work address an important problem within the research
+fields covered by the journal?) *:
+- High significance
+- Moderate significance
+- Low significance
+
+Novelty (Does the work provide new insights or new methods of a substantial kind
+that are appropriately based on existing research?) *:
+- Clear novelty
+- Limited novelty
+- Lack of novelty
+
+Technical quality (Are the methods adequate for the addressed problem, are they
+correctly and thoroughly applied, and are their results interpreted in a sound
+manner?) *:
 - Excellent
 - Good
 - Average
@@ -32,17 +46,8 @@ Technical quality *:
 - Bad
 - Unable to judge
 
-Relevance and importance of research question *:
-- Clear relevance
-- Limited relevance
-- Lack of relevance
-
-Novelty *:
-- Clear novelty
-- Limited novelty
-- Lack of novelty
-
-Presentation *:
+Presentation (Are the text, figures, and tables of the work accessible, pleasant
+to read, clearly structured, and free of major errors in grammar or style?) *:
 - Excellent
 - Good
 - Average
@@ -71,9 +76,9 @@ Further comments *:
 [TEXT AREA]
 
 By submitting this form, you accept that the content above will be made public
-under CC-BY (https://creativecommons.org/licenses/by/4.0/) license, and that
-your name and ORCID identifier will be publicly linked to it (unless you opted
-to stay anonymous).
+under CC-BY (https://creativecommons.org/licenses/by/4.0/) license. Furthermore,
+you accept that your name and ORCID identifier will be publicly linked to it,
+unless you opted to stay anonymous above.
 
 ----------
 EVERYTHING ABOVE THIS LINE WILL BE RETURNED TO THE AUTHORS.
