@@ -1,0 +1,60 @@
+Submission Form
+===============
+
+Paper Title *
+[TEXT FIELD]
+
+Tracking number of previous version
+[TEXT FIELD]
+If this is a revision of a previous version please enter the tracking number of
+your last submission. Leave blank if this is a new submission.
+
+
+Corresponding/First Author
+--------------------------
+
+First Name
+[TEXT FIELD]
+
+Last Name
+[TEXT FIELD]
+
+Email
+[TEXT FIELD]
+
+Orcid ID
+[TEXT FIELD]
+
+[BUTTON: add me] [BUTTON: remove]
+
+[BUTTON: Add another author]
+
+--------------------------
+
+Abstract *
+[TEXT AREA]
+
+Submission Type *
+- Regular Paper
+- Article in Special Issue (note in cover letter)
+- Editorial
+- Other (note in cover letter)
+
+Full PDF Version *
+[UPLOAD]
+Files must be less than 8 MB.
+Allowed file types: pdf zip rar doc docx odt.
+
+Supplementary Files
+[UPLOAD]
+Files must be less than 8 MB.
+Allowed file types: zip doc docx pdf.
+
+Cover Letter
+[TEXT AREA]
+If this is a resubmit, please mention RESUBMIT of #tracking_number.
+
+Terms and Conditions *
+- I have read and agree to the terms of the IOS Press Author Copyright Agreement
+- I don't agree to terms of the IOS Press Author Copyright Agreement
+
