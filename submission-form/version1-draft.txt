@@ -54,7 +54,7 @@ All files must be less than 10 MB.
 
 RDF representations of manuscript content (optional)
 [UPLOAD]
-Allowed file types are: ttl, rdf, xml, nt, nq, trig, jsonld, zip
+Allowed file types are: ttl, rdf, xml, nt, nq, trig, jsonld, zip.
 If your HTML article contains RDFa, you can submit here the extracted RDF.
 
 Supplementary Files (optional)
