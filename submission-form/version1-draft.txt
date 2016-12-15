@@ -50,7 +50,7 @@ Manuscript *
 [UPLOAD]
 Allowed file types are: html doc docx odt zip pdf.
 Use a zip file for HTML submissions with separate files such as images.
-Files must be less than 10 MB.
+All files must be less than 10 MB.
 
 RDF representations of manuscript content (optional)
 [UPLOAD]
@@ -60,7 +60,6 @@ If your HTML article contains RDFa, you can submit here the extracted RDF.
 Supplementary Files (optional)
 [UPLOAD]
 Allowed file types are: zip html doc docx odt pdf.
-Files must be less than 10 MB.
 
 Data repository URLs *
 [TEXT AREA]
