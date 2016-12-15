@@ -1,0 +1,76 @@
+Submission Form
+===============
+
+Paper Title *
+[TEXT FIELD]
+
+Tracking number of previous version
+[TEXT FIELD]
+If this is a revision of a previous version please enter the tracking number of
+your last submission. Leave blank if this is a new submission.
+
+
+Corresponding/First Author
+--------------------------
+
+First Name *
+[TEXT FIELD]
+
+Last Name *
+[TEXT FIELD]
+
+Email *
+[TEXT FIELD]
+
+Orcid ID *
+[TEXT FIELD]
+
+[BUTTON: add me] [BUTTON: remove]
+
+[BUTTON: Add another author]
+
+--------------------------
+
+
+Abstract *
+[TEXT AREA]
+
+Submission Type *
+- Research Paper
+- Position Paper
+- Survey Paper
+- Report
+- Article in Special Issue (specify below)
+- Other (use this only when explicitly advised to do so)
+
+Special issue, if applicable:
+[TEXT FIELD]
+
+Manuscript *
+[UPLOAD]
+Allowed file types are: html doc docx odt zip pdf.
+Use a zip file for HTML submissions with separate files such as images.
+Files must be less than 10 MB.
+
+RDF representations of manuscript content (optional)
+[UPLOAD]
+Allowed file types are: ttl, rdf, xml, nt, nq, trig, jsonld, zip
+If your HTML article contains RDFa, you can submit here the extracted RDF.
+
+Supplementary Files (optional)
+[UPLOAD]
+Allowed file types are: zip html doc docx odt pdf.
+Files must be less than 10 MB.
+
+Data repository URLs *
+[TEXT AREA]
+Add one URL per line pointing to the used and created data sets for the given
+work hosted on public third-party data repositories.
+
+Terms and Conditions *
+- I agree to the terms and conditions for Open Access journals by IOS Press
+  [LINK], and I agree that my manuscript will be made available as a preprint on
+  the journal server and that it will remain available after acceptance or
+  rejection together with the reviews
+- I do not agree with the above
+
