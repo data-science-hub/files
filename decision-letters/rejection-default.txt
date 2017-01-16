@@ -1,7 +1,5 @@
-We regret to communicate that your paper submitted to Data Science Journal has been rejected. Please find below some detailed comments which do motivate our decision. We hope you will find them useful.
+We regret to inform you that your paper submitted to Data Science Journal cannot be accepted for publication at this time. Please find below details concerning your submission. 
 
-Thank you very much for your interest in Data Science Journal, and best wishes for your research work.
- 
 Please visit {{direct_url}} to see the reviews of the paper. To submit a new version of the paper, submit a new paper to the journal website and mention the tracking number of this paper.
  
 Sincerely,
