@@ -1,0 +1,7 @@
+We regret to inform you that your paper submitted to Data Science Journal cannot be accepted for publication at this time. Please find below details concerning your submission. 
+
+Please visit {{direct_url}} to see the reviews of the paper. To submit a new version of the paper, submit a new paper to the journal website and mention the tracking number of this paper.
+ 
+Sincerely,
+{{editor}}
+ Data Science Journal editorial board
