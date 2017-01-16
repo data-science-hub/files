@@ -1,0 +1,8 @@
+Thank you for your submission to Data Science Journal.
+We are pleased to inform you that your paper has been accepted pending minor revisions. Please carefully take into account the enclosed comments by the reviewers when preparing the revised version. It is incumbent upon you to do so. Please provide punctual responses to the issues raised by the reviewers and prepare a separate text file containing such responses. The revised version of the paper is expected within 20 days.
+ 
+Please visit {{direct_url}} to see the reviews of the paper. To submit a new version of the paper, submit a new paper to the journal website and mention the tracking number of this paper.
+
+Sincerely,
+{{editor}}
+ Data Science Journal editorial board

@@ -1,0 +1,38 @@
+Thank you for your submission to the Data Science Journal.
+We are pleased to inform you that your paper has been accepted for publication. Please carefully take into account the enclosed comments by the reviewers when preparing the revised version. It is incumbent upon you to do so. Please provide punctual responses to the issues raised by the reviewers and prepare a separate text file containing such responses. The revised version of the paper is expected within 20 days.
+
+Please visit {{direct_url}} to see the reviews of the paper. You can click on the link on the paper page: "Submit Camera Ready Version" to submit the final version.
+ 
+======================================================================
+Instructions for the submission of the final paper, please read carefully!
+======================================================================
+ 
+A. SOURCE FILE IN MS WORD
+ 
+Please upload a .zip file containing:
+ 
+1. The .pdf file, formatted according to the instructions and with figures and tables placed where you want them to appear in the paper
+ 
+2. The .doc source file with all figures and tables placed at the end or, better
+ 
+3. Separate files for figures
+ 
+4. A separate text file with responses to reviewers
+ 
+B. SOURCE FILE IN LATEX
+ 
+Please upload a .zip file containing:
+ 
+1. The .pdf file, formatted using the journal template (available on the website)
+ 
+2. All the source files (. Tex, .bib, .eps...) and packages that were used for typesetting your paper
+ 
+3. A separate text file with responses to reviewers.
+ 
+ 
+We congratulate you again on having your paper accepted!
+ 
+Sincerely,
+
+{{editor}}
+ Data Science Journal editorial board
