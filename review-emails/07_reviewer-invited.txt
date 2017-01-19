@@ -9,11 +9,19 @@ Message Text
 
 Dear {{reviewer}},
 
-I am an editor of the Data Science Journal, and I would like to ask you whether you could help me with evaluating the manuscript noted below.
+I am an editor of the Data Science Journal, and I would like to ask you whether
+you could help me with evaluating the manuscript noted below.
 
-Our journal has a number of unusual features to make reviewing more rewarding: All submissions are available as open preprints, so you can share and discuss the manuscript with whoever you like. We furthermore encourage you to make your review non-anonymous, so you can share it on your blog or on social media, and refer to it in your resume. We moreover aim to make acceptance decisions within a few weeks, and accepted articles are all Open Access and their content can therefore be freely accessed and reused.
+Our journal has a number of unusual features to make reviewing more rewarding:
+All submissions are available as open preprints, so you can share and discuss
+the manuscript with whoever you like. We furthermore encourage you to make your
+review non-anonymous, so you can share it on your blog or on social media, and
+refer to it in your resume. We moreover aim to make acceptance decisions within
+a few weeks, and accepted articles are all Open Access and their content can
+therefore be freely accessed and reused.
 
-If you decide to accept, I would very much appreciate receiving your review within 10 days, to allow for a fast response to authors.
+If you decide to accept, I would very much appreciate receiving your review
+within 10 days, to allow for the mentioned fast response to authors.
 
 {{authors}}. {{title}} ({{submission_type}}). {{url}}
 
