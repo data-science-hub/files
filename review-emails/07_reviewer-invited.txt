@@ -20,14 +20,18 @@ refer to it in your resume. We moreover aim to make acceptance decisions within
 a few weeks, and accepted articles are all Open Access and their content can
 therefore be freely accessed and reused.
 
+Manuscript: {{authors}}. {{title}} ({{submission_type}}). {{url}}
+
+You can use this link to accept or decline this review invitation:
+{{direct_url}}
+
 If you decide to accept, I would very much appreciate receiving your review
 within 10 days, to allow for the mentioned fast response to authors.
-
-{{authors}}. {{title}} ({{submission_type}}). {{url}}
 
 Instructions for reviewers can be found at {{site_url}}/content/guidelines.
 
 Thank you for your consideration.
 
 With kind regards,
+
 {{editor}}

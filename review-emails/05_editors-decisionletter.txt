@@ -13,9 +13,4 @@ The decision letter for the paper below might need to be revised.
 
 Paper Details:
 
-Authors: {{authors}}
-Title: {{title}}
-Submission Type: {{submission_type}}
-URL: {{url}}
-Tracking number: {{tracking_number}}
-
+{{tracking_number}}: {{authors}}. {{title}} ({{submission_type}}). {{url}}

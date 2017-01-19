@@ -9,13 +9,16 @@ Message Text
 
 Dear Editorial Board Members,
 
-Please reply to data-science-journal-executives@googlegroups.com if you are interested either in serving as Handling Editor or in reviewing the following manuscript.
+Please reply to data-science-journal-executives@googlegroups.com if you are
+interested either in serving as Handling Editor or in reviewing the following
+manuscript.
 
 Thanks,
+
 The Editors in Chief
 
-Title: {{title}}
-Tracking number: #{{tracking_number}}
-Abstract:
-{{abstract}}
+
+{{tracking_number}}: {{authors}}. {{title}} ({{submission_type}}). {{url}}
+
+Abstract: {{abstract}}
 

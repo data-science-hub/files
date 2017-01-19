@@ -9,7 +9,10 @@ Message Text
 
 Dear {{author}},
 
-Thank you for submitting your paper to the Data Science Journal. It has been assigned tracking number {{tracking_number}}. We will start reviewing within a few days, and you will then be able to obtain the history and current status of your manuscript, by visiting the address presented below. 
+Thank you for submitting your paper to the Data Science Journal. It has been
+assigned tracking number {{tracking_number}}. We will start reviewing within a
+few days, and you will then be able to obtain the history and current status of
+your manuscript, by visiting the address presented below. 
 
 https://orcid.org/oauth/authorize?client_id=APP-056GSP3J5RDS9KCM&response_type=code&scope=/authenticate&redirect_uri=http://localhost/data-science/
 
