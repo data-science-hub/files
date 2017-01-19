@@ -1,0 +1,25 @@
+Subject
+-------
+
+Invitation from {{editor}} to review for Data Science Journal
+
+
+Message Text
+------------
+
+Dear {{reviewer}},
+
+I am an editor of the Data Science Journal, and I would like to ask you whether you could help me with evaluating the manuscript noted below.
+
+Our journal has a number of unusual features to make reviewing more rewarding: All submissions are available as open preprints, so you can share and discuss the manuscript with whoever you like. We furthermore encourage you to make your review non-anonymous, so you can share it on your blog or on social media, and refer to it in your resume. We moreover aim to make acceptance decisions within a few weeks, and accepted articles are all Open Access and their content can therefore be freely accessed and reused.
+
+If you decide to accept, I would very much appreciate receiving your review within 10 days, to allow for a fast response to authors.
+
+{{authors}}. {{title}} ({{submission_type}}). {{url}}
+
+Instructions for reviewers can be found at {{site_url}}/content/guidelines.
+
+Thank you for your consideration.
+
+With kind regards,
+{{editor}}
