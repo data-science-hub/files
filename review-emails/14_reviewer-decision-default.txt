@@ -1,0 +1,25 @@
+Subject
+-------
+
+[Data Science] Thank you for your support
+
+
+Message Text
+------------
+
+Dear {{reviewer}},
+
+We have reached a decision regarding paper {{title}} which you helped reviewing. Your input was very valuable for us. You can see all reviews and the decision taken at {{direct_url}}.
+
+Authors: {{authors}}
+Title: {{title}}
+Submission Type: {{submission_type}}
+URL: {{url}}
+Tracking number: {{tracking_number}}
+Assigned editor: {{editor}} ({{editor_email}})
+Reviews:
+{{reviews}}
+
+Best Regards,
+
+Editors-in-chief, Data Science Journal

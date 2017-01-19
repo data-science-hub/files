@@ -1,0 +1,21 @@
+Subject
+-------
+
+[Data Science] Editor Decline #{{tracking_number}}
+
+
+Message Text
+------------
+
+{{editor}} has declined to be the editor of "{{title}}."
+
+Reason: {{content}}
+
+Paper Details:
+
+Authors: {{authors}}
+Title: {{title}}
+Submission Type: {{submission_type}}
+URL: {{url}}
+Assigned editor: {{editor}} ({{editor_email}})
+Tracking number: {{tracking_number}}

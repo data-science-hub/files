@@ -1,0 +1,21 @@
+Subject
+-------
+
+[Data Science] Decision letter sent, #{{tracking_number}}
+
+
+Message Text
+------------
+
+Decision letter sent, thank you for your continued support.
+
+Authors: {{authors}}
+Title: {{title}}
+Submission Type: {{submission_type}}
+URL: {{url}}
+Tracking number: {{tracking_number}}
+Assigned editor: {{editor}} ({{editor_email}})
+
+Best Regards,
+
+Editors-in-Chief,  Data Science Journal

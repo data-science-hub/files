@@ -1,0 +1,20 @@
+Subject
+-------
+
+[Data Science] Paper submission
+
+
+Message Text
+------------
+
+A paper has been submitted to the Data Science Journal, which requires processing. Please login and visit the new submissions link.
+
+Paper Details:
+
+Authors: {{authors}}
+Title: {{title}}
+Submission Type: {{submission_type}}
+URL: {{url}}
+Tracking number: {{tracking_number}}
+
+Data Science Journal

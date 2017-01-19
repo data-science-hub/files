@@ -1,0 +1,23 @@
+Subject
+-------
+
+[Data Science]  Bidding for a new submission #{{tracking_number}}
+
+
+Message Text
+------------
+
+Dear Editorial Board Members,
+
+Please reply to this message if you are interested either in serving as Handling Editor or in reviewing the following manuscript in a reasonable time.
+
+As always, we cannot assign reviewers to this paper until we identify a Handling Editor. Please reply to S.Delbecque@iospress.nl.
+
+Thanks,
+The Editors in Chief
+
+Title: {{title}}
+Tracking number: #{{tracking_number}}
+Abstract:
+{{abstract}}
+

@@ -1,0 +1,22 @@
+Subject
+-------
+
+[Data Science] Review Decision Letter for, #{{tracking_number}}
+
+
+Message Text
+------------
+
+Dear Editor,
+
+Please revise the decision letter for the below paper.
+
+Paper Details:
+
+Authors: {{authors}}
+Title: {{title}}
+Submission Type: {{submission_type}}
+URL: {{url}}
+Tracking number: {{tracking_number}}
+
+

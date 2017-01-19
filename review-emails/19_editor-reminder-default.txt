@@ -1,0 +1,24 @@
+Subject
+-------
+
+[Data Science] Editorial Reminder #{{tracking_number}}
+
+
+Message Text
+------------
+
+Dear {{editor}},
+
+Some time ago, the manuscript {{title}} has been assigned to you. Since then, according to what results from our journal management system, no reviewers have been appointed. We assume you have been too busy, but we remind you that reviewers’ assignment is a preliminary, necessary step to trigger the whole handling process.
+
+We would appreciate if you take action as soon as possible
+
+You can access the system through the following webpage:
+
+{{url}}
+
+and, after having inserted your login and password, you can have a look at your actions needed.
+Don’t hesitate to contact us in case you have forgotten your login and/or password or if you need any help with the system.
+
+Best Regards,
+the Editorial Office of  Data Science Journal

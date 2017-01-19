@@ -1,0 +1,17 @@
+Subject
+-------
+
+[Data Science] Decision letter drafted, #{{tracking_number}}
+
+
+Message Text
+------------
+
+A decision letter for this paper has been drafted and needs to be confirmed.
+
+Authors: {{authors}}
+Title: {{title}}
+Submission Type: {{submission_type}}
+URL: {{url}}
+Tracking number: {{tracking_number}}
+Assigned editor: {{editor}} ({{editor_email}})

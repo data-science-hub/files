@@ -1,0 +1,25 @@
+Subject
+-------
+
+[Data Science] Review received, #{{tracking_number}}
+
+
+Message Text
+------------
+
+A review has been provided for a paper which was assigned to you.
+
+Authors: {{authors}}
+Title: {{title}}
+Submission Type: {{submission_type}}
+URL: {{url}}
+Tracking number: {{tracking_number}}
+Assigned editor: {{editor}} ({{editor_email}})
+Review submitted by: {{reviewer}}
+
+
+Review Details:
+
+{{review}}
+
+You can access the paper by logging in as editorial board member on {{site_url}}

@@ -1,0 +1,29 @@
+Subject
+-------
+
+[Data Science] Request to review paper, #{{tracking_number}}
+
+
+Message Text
+------------
+
+Dear {{reviewer}},
+
+A manuscript was recently submitted to Data Science Journal:
+
+Authors: {{authors}}
+Title: {{title}}
+Submission Type: {{submission_type}}
+URL: {{url}}
+Tracking number: {{tracking_number}}
+Assigned editor: {{editor}} ({{editor_email}})
+
+If interested and available, would you be so kind as to provide a timely review of this manuscript? If so, I ask that it be returned within 30 days. If you think you need more time for the review, please let me know. To access the paper and provide your review or to confirm or reject this review request please visit {{direct_url}}. 
+
+If you agree to act as a reviewer, please make sure you are aware of the instructions for reviewers at {{site_url}}/content/reviewers. The International Computer Games Association Journal by default request non-anonymous reviews. However, you can choose to remain anonymous, in this case please declare this by indicating your choice on the review form.
+
+
+Thank you for your time.
+
+Sincerely,
+{{editor}}

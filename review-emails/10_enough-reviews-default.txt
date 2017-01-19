@@ -1,0 +1,22 @@
+Subject
+-------
+
+[Data Science] Decision on paper required, #{{tracking_number}}
+
+
+Message Text
+------------
+
+Dear {{editor}},
+
+One of the papers assigned to you has now received the minimum number of required reviews. Please check if a decision on the paper can now be reached, and if so, please write a corresponding decision letter. Please discuss with the editors-in-chief in case there are any doubts about the appropriate decision.
+
+Authors: {{authors}}
+Title: {{title}}
+Submission Type: {{submission_type}}
+URL: {{url}}
+Tracking number: {{tracking_number}}
+Assigned editor: {{editor}} ({{editor_email}})
+
+You find the paper by logging in as editorial board member on {{site_url}}
+
