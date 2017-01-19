@@ -1,0 +1,26 @@
+Subject
+-------
+
+[Data Science] Paper assigned to responsible editor, #{{tracking_number}}
+
+
+Message Text
+------------
+
+Dear {{editor}},
+
+We just assigned a paper to you as responsible editor. Please have a look and let us know immediately in case you are unable to take care of it. You can login and follow the "Papers to manage" link (under "EB Actions") to see this submission. There you can choose whether you accept or refuse to participate in the review process for this paper.
+
+Paper Details:
+
+Authors: {{authors}}
+Title: {{title}}
+Submission Type: {{submission_type}}
+URL: {{url}}
+Tracking number: {{tracking_number}}
+
+Thank you very much for your continued support.
+
+Best Regards,
+Editors-in-Chief,  Data Science Journal
+
