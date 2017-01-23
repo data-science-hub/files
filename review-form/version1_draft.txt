@@ -30,15 +30,25 @@ fields covered by the journal?) *:
 - Moderate significance
 - Low significance
 
-Novelty (Does the work provide new insights or new methods of a substantial kind
-that are appropriately based on existing research?) *:
+Novelty (For research papers: Does the work provide new insights or new methods
+of a substantial kind that are appropriately based on existing research? For
+position papers: Does the work provide a novel and potentially disruptive view
+on the given topic with appropriate consideration of existing research? For
+survey papers: Does the work provide an overview that is unique in its scope and
+structure for the given topic with appropriate consideration of existing
+research?) *:
 - Clear novelty
 - Limited novelty
 - Lack of novelty
 
-Technical quality (Are the methods adequate for the addressed problem, are they
-correctly and thoroughly applied, and are their results interpreted in a sound
-manner?) *:
+Technical quality (For research papers: Are the methods adequate for the
+addressed problem, are they correctly and thoroughly applied, and are their
+results interpreted in a sound manner? For position papers: Is the advocated
+position supported by sound arguments, and are these arguments appropriately
+based on existing research? For survey papers: Is the topic covered in a
+comprehensive and well balanced manner, are the covered approaches accurately
+described and compared, and are they placed in a convincing common framework?)
+*:
 - Excellent
 - Good
 - Average
