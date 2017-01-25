@@ -1,11 +1,7 @@
 Review Form
 ===========
 
-Your name will appear here. (We encourage you to provide an open non-anonymous
-review. However, you can check the box below if you don't want your name to be
-publicly associated to this review.)
-
-[ ] I want to remain anonymous. My reasons (optional): [TEXT FIELD]
+Your name will appear here (unless you opt to stay anonymous below).
 
 Overall impression *:
 - Excellent
@@ -30,25 +26,30 @@ fields covered by the journal?) *:
 - Moderate significance
 - Low significance
 
+Background (Is the work appropriately based on and connected to the relevant
+related work?) *:
+- Comprehensive
+- Reasonable
+- Incomplete or inappropriate
+- Unable to judge
+
 Novelty (For research papers: Does the work provide new insights or new methods
-of a substantial kind that are appropriately based on existing research? For
-position papers: Does the work provide a novel and potentially disruptive view
-on the given topic with appropriate consideration of existing research? For
-survey papers: Does the work provide an overview that is unique in its scope and
-structure for the given topic with appropriate consideration of existing
-research?) *:
+of a substantial kind? For position papers: Does the work provide a novel and
+potentially disruptive view on the given topic? For survey papers: Does the work
+provide an overview that is unique in its scope or structure for the given
+topic?) *:
 - Clear novelty
 - Limited novelty
 - Lack of novelty
+- Unable to judge
 
 Technical quality (For research papers: Are the methods adequate for the
 addressed problem, are they correctly and thoroughly applied, and are their
 results interpreted in a sound manner? For position papers: Is the advocated
-position supported by sound arguments, and are these arguments appropriately
-based on existing research? For survey papers: Is the topic covered in a
-comprehensive and well balanced manner, are the covered approaches accurately
-described and compared, and are they placed in a convincing common framework?)
-*:
+position supported by sound and thorough arguments? For survey papers: Is the
+topic covered in a comprehensive and well balanced manner, are the covered
+approaches accurately described and compared, and are they placed in a
+convincing common framework?) *:
 - Excellent
 - Good
 - Average
@@ -96,10 +97,16 @@ Further comments *:
 By submitting this form, you accept that the content above will be made public
 under CC-BY (https://creativecommons.org/licenses/by/4.0/) license. Furthermore,
 you accept that your name and ORCID identifier will be publicly linked to it,
-unless you opted to stay anonymous above.
+unless you opt to stay anonymous below.
 
 ----------
 EVERYTHING ABOVE THIS LINE WILL BE RETURNED TO THE AUTHORS.
+
+We encourage you to provide an open non-anonymous review. However, you can check
+the box below if you don't want your name to be publicly associated to this
+review.
+
+[ ] I want to remain anonymous, for the following reasons: [TEXT FIELD]
 
 Comments to the editor (optional):
 [TEXT AREA]
