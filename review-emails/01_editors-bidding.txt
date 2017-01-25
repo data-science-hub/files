@@ -15,7 +15,7 @@ manuscript.
 
 Thanks,
 
-The Editors in Chief
+The Editors-in-Chief
 
 
 {{tracking_number}}: {{authors}}. {{title}} ({{submission_type}}). {{url}}

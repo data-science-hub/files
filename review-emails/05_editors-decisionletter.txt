@@ -11,6 +11,8 @@ Dear Editor,
 
 The decision letter for the paper below might need to be revised.
 
-Paper Details:
-
 {{tracking_number}}: {{authors}}. {{title}} ({{submission_type}}). {{url}}
+
+Best regards,
+
+The Editors-in-Chief
