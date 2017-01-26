@@ -1,7 +1,7 @@
 Subject
 -------
 
-[Data Science] Review Reminder #{{tracking_number}}
+Review reminder for Data Science Journal
 
 
 Message Text

@@ -14,8 +14,14 @@ assigned tracking number {{tracking_number}}. We will start reviewing within a
 few days, and you will then be able to obtain the history and current status of
 your manuscript, by visiting the address presented below. 
 
-https://orcid.org/oauth/authorize?client_id=APP-056GSP3J5RDS9KCM&response_type=code&scope=/authenticate&redirect_uri=http://104.197.102.240/data-science/
+For future steps in the review process, we have created an account for you on
+the journal homepage, login:
+https://orcid.org/oauth/authorize?client_id=APP-056GSP3J5RDS9KCM&response_type=code&scope=/authenticate&redirect_uri=http://104.197.102.240/data-science/?mail={{author}}. 
+
+If you already had an account on the Data Science website, please let us know by
+email to S.Delbecque@iospress.nl and we will correct our records.
 
 With kind regards,
 
 Editors-in-chief, Data Science journal
+
