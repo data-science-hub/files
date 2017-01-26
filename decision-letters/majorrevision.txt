@@ -1,0 +1,14 @@
+Thank you for your submission to Data Science Journal. We inform you that the
+acceptance or rejection of your manuscript is still undecided. We ask you to
+provide a revised version by carefully taking into account the enclosed comments
+by the reviewers. Please provide point-by-point responses to the issues raised
+by the reviewers and prepare a separate text file that contains these responses.
+The revised version of the paper is expected within 20 days. Please visit the
+link below to see the reviews of the paper. To submit a new version, upload a
+new paper to the journal website and mention the tracking number of this paper.
+
+{{direct_url}}
+ 
+With kind regards,
+
+{{editor}}, Data Science Journal editorial board
