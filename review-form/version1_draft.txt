@@ -91,7 +91,7 @@ Reasons to accept *:
 Reasons to reject *:
 [TEXT AREA]
 
-Further comments *:
+Further comments:
 [TEXT AREA]
 
 By submitting this form, you accept that the content above will be made public
