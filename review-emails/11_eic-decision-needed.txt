@@ -1,0 +1,13 @@
+Subject
+-------
+
+[Data Science] Decision letter needed, #{{tracking_number}}
+
+
+Message Text
+------------
+
+This paper has now received the minimum number of required reviews.
+
+{{tracking_number}}: {{authors}}. {{title}} ({{submission_type}}). {{url}}.
+Assigned editor: {{editor}} ({{editor_email}})

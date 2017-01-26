@@ -1,0 +1,23 @@
+Subject
+-------
+
+[Data Science] Decision letter, #{{tracking_number}}
+
+
+Message Text
+------------
+
+Dear Author,
+
+We have reached a decision for your paper. Please find below the details.
+
+{{tracking_number}}: {{authors}}. {{title}} ({{submission_type}}). {{url}}.
+Assigned editor: {{editor}} ({{editor_email}})
+
+Decision Letter: {{decision_letter}}
+
+The reviews can be found on {{direct_url}}.
+
+With kind regards,
+
+Editors-in-chief, Data Science journal

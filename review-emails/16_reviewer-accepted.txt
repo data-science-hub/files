@@ -1,0 +1,12 @@
+Subject
+-------
+
+[Data Science] {{reviewer}} has accepted invitation to review #{{tracking_number}}
+
+
+Message Text
+------------
+
+{{reviewer}} has agreed to review the paper below.
+
+{{tracking_number}}: {{authors}}. {{title}} ({{submission_type}}). {{url}}

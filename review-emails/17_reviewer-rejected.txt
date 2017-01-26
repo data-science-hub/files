@@ -1,0 +1,14 @@
+Subject
+-------
+
+[Data Science] {{reviewer}} has declined invitation to review #{{tracking_number}}
+
+
+Message Text
+------------
+
+{{reviewer}} has declined to review the paper below.
+
+{{tracking_number}}: {{authors}}. {{title}} ({{submission_type}}). {{url}}
+
+Reason: {{content}}

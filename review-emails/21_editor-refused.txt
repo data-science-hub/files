@@ -1,0 +1,15 @@
+Subject
+-------
+
+[Data Science] Editor has declined #{{tracking_number}}
+
+
+Message Text
+------------
+
+{{editor}} has declined to handle the paper below.
+
+{{tracking_number}}: {{authors}}. {{title}} ({{submission_type}}). {{url}}
+
+Reason: {{content}}
+

@@ -1,0 +1,31 @@
+Subject
+-------
+
+[Data Science] Reminder to invite reviewers for manuscript #{{tracking_number}}
+
+
+Message Text
+------------
+
+Dear {{editor}},
+
+We would like to remind you that reviewers need to be invited for the manuscript
+below, which has been assigned to you.
+
+{{tracking_number}}: {{authors}}. {{title}} ({{submission_type}}). {{url}}
+
+You can access the paper and trigger the necessary actions from the URL above.
+
+We are committed to provide speedy reviewing, and the invitation of reviewers is
+an important step in that workflow. We would therefore appreciate if you take
+action as soon as possible.
+
+Should you be unable to handle this paper after all, please let us know as soon
+as possible, so we can assign it to another editor.
+
+Please do not hesitate to contact us if you need help with the system or have
+other questions.
+
+With kind regards,
+
+Editors-in-chief, Data Science journal

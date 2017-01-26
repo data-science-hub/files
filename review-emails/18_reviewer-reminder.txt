@@ -1,0 +1,28 @@
+Subject
+-------
+
+[Data Science] Review Reminder #{{tracking_number}}
+
+
+Message Text
+------------
+
+Dear {{reviewer}},
+
+I would like to remind you of your pending review for the following paper
+submitted to the Data Science journal.
+
+Manuscript: {{authors}}. {{title}} ({{submission_type}}). {{url}}
+
+To obtain the paper and enter the review, please go to {{direct_url}}.
+
+In order to provide speedy feedback to authors, I would like to ask you to
+complete your review within 10 days from the initial invitation. Should you be
+unable to comply with that, I appreciate if you can let me know as soon as
+possible, so I can find other reviewers.
+
+Please do not hesitate to contact me if you have any questions.
+
+With kind regards,
+
+{{editor}}

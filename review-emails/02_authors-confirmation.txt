@@ -16,6 +16,6 @@ your manuscript, by visiting the address presented below.
 
 https://orcid.org/oauth/authorize?client_id=APP-056GSP3J5RDS9KCM&response_type=code&scope=/authenticate&redirect_uri=http://localhost/data-science/
 
-Sincerely,
+With kind regards,
 
-Data Science Editorial Office
+Editors-in-chief, Data Science journal

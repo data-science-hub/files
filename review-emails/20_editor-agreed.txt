@@ -1,0 +1,12 @@
+Subject
+-------
+
+[Data Science] Editor has agreed #{{tracking_number}}
+
+
+Message Text
+------------
+
+{{editor}} has agreed to handle the paper below.
+
+{{tracking_number}}: {{authors}}. {{title}} ({{submission_type}}). {{url}}
