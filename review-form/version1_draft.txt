@@ -74,13 +74,13 @@ Length of the manuscript *?
   I urge the editor to allow for an exception)
 
 Data availability *:
-- All used and produced data are openly available in established data
+- All used and produced data are FAIR and openly available in established data
   repositories
-- All used and produced data are openly available in established data
-  repositories, except for data that cannot be made public due to privacy
-  concerns
-- Not all used and produced data are openly available in established data
-  repositories; authors need to fix this
+- With exceptions that are admissible according to the data availability
+  guidelines, all used and produced data are FAIR and openly available in
+  established data repositories
+- Not all used and produced data are FAIR and openly available in established
+  data repositories; authors need to fix this
 
 Summary of paper in a few sentences *:
 [TEXT AREA]
