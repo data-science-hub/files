@@ -18,4 +18,4 @@ Assigned editor: {{editor}} ({{editor_email}})
 
 Best Regards,
 
-Editors-in-chief, Data Science Journal
+Editors-in-chief, Data Science

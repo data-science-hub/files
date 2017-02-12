@@ -14,4 +14,4 @@ Assigned editor: {{editor}} ({{editor_email}})
 
 With kind regards,
 
-Editors-in-chief, Data Science journal
+Editors-in-chief, Data Science

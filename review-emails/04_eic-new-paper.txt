@@ -7,8 +7,8 @@ Subject
 Message Text
 ------------
 
-A paper has been submitted to the Data Science Journal, which requires
-processing. Please login and visit the new submissions link.
+A paper has been submitted to Data Science, which requires processing. Please
+login and visit the new submissions link.
 
 {{tracking_number}}: {{authors}}. {{title}} ({{submission_type}}). {{url}}
 

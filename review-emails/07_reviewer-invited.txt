@@ -1,7 +1,7 @@
 Subject
 -------
 
-Invitation from {{editor}} to review for Data Science Journal
+Invitation from {{editor}} to review for Data Science
 
 
 Message Text
@@ -9,7 +9,7 @@ Message Text
 
 Dear {{reviewer}},
 
-I am an editor of the Data Science Journal, and I would like to ask you whether
+I am an editor of the journal Data Science, and I would like to ask you whether
 you could help me with evaluating the manuscript noted below.
 
 Our journal has a number of unusual features to make reviewing more rewarding:

@@ -20,4 +20,4 @@ The reviews can be found on {{direct_url}}.
 
 With kind regards,
 
-Editors-in-chief, Data Science journal
+Editors-in-chief, Data Science
