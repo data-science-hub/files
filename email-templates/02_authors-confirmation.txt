@@ -14,7 +14,7 @@ tracking number {{tracking_number}}. We will start reviewing within a few days,
 and you will then be able to obtain the history and current status of your
 manuscript, by visiting the address presented below. 
 
-https://orcid.org/oauth/authorize?client_id=APP-056GSP3J5RDS9KCM&response_type=code&scope=/authenticate&redirect_uri=http://104.197.102.240/data-science/
+{{direct_url}}
 
 With kind regards,
 
