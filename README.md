@@ -1,1 +1,1 @@
-Various types of files for the Data Science journal.
+Various types of files for the journal Data Science.
