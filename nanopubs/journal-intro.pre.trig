@@ -1,0 +1,35 @@
+@prefix : <http://example.org/datascience/journal-intro> .
+@prefix ds: <http://example.org/datascience/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix pav: <http://purl.org/pav/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix np: <http://www.nanopub.org/nschema#> .
+@prefix swjterms: <http://semantic-web-journal.com/ontology#> .
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix orcid: <http://orcid.org/4> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+
+:Head {
+	: np:hasAssertion :assertion ;
+		np:hasProvenance :provenance ;
+		np:hasPublicationInfo :pubinfo ;
+		a np:Nanopublication .
+}
+
+:assertion {
+	ds:DataScience a bibo:Journal ;
+		dcterms:title "Data Science" ;
+		dcterms:description "Data Science - Methods, Infrastructure, and Applications; an IOS Press journal" ;
+		swjterms:editorInChief orcid:0000-0002-1267-0234 , orcid:0000-0003-4727-9435 .
+}
+
+:provenance {
+	:assertion prov:hadPrimarySource ds:IOSPress .
+}
+
+:pubinfo {
+	: dc:created "2017-02-13T17:17:36+01:00"^^xsd:dateTime ;
+		pav:createdBy orcid:0000-0002-1267-0234 .
+}
+
