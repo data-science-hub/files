@@ -54,17 +54,20 @@ All files must be less than 10 MB.
 
 RDF representations of manuscript content (optional and experimental)
 [UPLOAD]
-Allowed file types are: ttl, rdf, xml, nt, nq, trig, jsonld, zip.
 You can also embed RDF in your HTML manuscript in the form of RDFa.
+Files must be less than 10 MB.
+Allowed file types: ttl rdf xml nt nq trig jsonld zip.
 
 Supplementary Files (optional)
 [UPLOAD]
+Files must be less than 10 MB.
 Allowed file types are: zip html doc docx odt pdf.
 
 Data repository URLs *
 [TEXT AREA]
 Add one URL per line pointing to the used and created data sets for the given
-work hosted on public third-party data repositories.
+work hosted on public third-party data repositories. Write "none" if no dataset
+was involved in this work (this should only happen for position papers).
 
 Terms and Conditions *
 - I agree to the terms and conditions for Open Access journals by IOS Press
