@@ -74,8 +74,8 @@ Length of the manuscript *?
   I urge the editor to allow for an exception)
 
 Data availability *:
-- All used and produced data are FAIR and openly available in established data
-  repositories
+- All used and produced data (if any) are FAIR and openly available in
+  established data repositories
 - With exceptions that are admissible according to the data availability
   guidelines, all used and produced data are FAIR and openly available in
   established data repositories
@@ -108,6 +108,6 @@ review.
 
 [ ] I want to remain anonymous, for the following reasons: [TEXT FIELD]
 
-Comments to the editor (optional):
+Comments to the editor (optional, this won't be shown to the authors):
 [TEXT AREA]
 
