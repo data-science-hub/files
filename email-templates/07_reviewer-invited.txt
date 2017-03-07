@@ -9,8 +9,9 @@ Message Text
 
 Dear {{reviewer}},
 
-I am an editor of the journal Data Science, and I would like to ask you whether
-you could help me with evaluating the manuscript noted below.
+I am an editor of a new journal called Data Science, and I would like to ask you
+whether you could help me by writing a review for the manuscript below within
+the next 10 days?
 
 Our journal has a number of unusual features to make reviewing more rewarding:
 All submissions are available as open preprints, so you can share and discuss
@@ -23,7 +24,7 @@ therefore be freely accessed and reused.
 Manuscript: {{authors}}. {{title}} ({{submission_type}}). {{url}}
 
 You can use this link to accept or decline this review invitation:
-{{direct_url}}
+{{orcid_url}}
 
 If you decide to accept, I would very much appreciate receiving your review
 within 10 days, to allow for the mentioned fast response to authors.

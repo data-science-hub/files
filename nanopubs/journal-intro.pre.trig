@@ -1,5 +1,5 @@
-@prefix : <http://example.org/datascience/journal-intro> .
-@prefix ds: <http://example.org/datascience/> .
+@prefix : <http://ld.datasciencehub.net/np/journal-intro> .
+@prefix ds: <http://ld.datasciencehub.net/ind/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dc: <http://purl.org/dc/terms/> .
 @prefix pav: <http://purl.org/pav/> .
