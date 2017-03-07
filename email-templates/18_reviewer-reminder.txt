@@ -1,7 +1,7 @@
 Subject
 -------
 
-Review reminder for Data Science
+Pending review invitation for Data Science
 
 
 Message Text
@@ -9,19 +9,20 @@ Message Text
 
 Dear {{reviewer}},
 
-I would like to remind you of your pending review for the following paper
-submitted to Data Science.
+I would like to remind you of a pending invitation to review the following
+paper, which was submitted to Data Science.
 
 Manuscript: {{authors}}. {{title}} ({{submission_type}}). {{url}}
 
-To obtain the paper and enter the review, please go to {{direct_url}}.
+You can use this link to accept or decline this review invitation:
+{{orcid_url}}?mail={{reviewer_email}} (or simply reply to this email)
 
-In order to provide speedy feedback to authors, I would like to ask you to
-complete your review within 10 days from the initial invitation. Should you be
-unable to comply with that, I appreciate if you can let me know as soon as
-possible, so I can find other reviewers.
+If you decide to accept, I would very much appreciate receiving your review
+within 10 days, to allow for the mentioned fast response to authors.
 
-Please do not hesitate to contact me if you have any questions.
+Instructions for reviewers can be found at {{site_url}}/content/guidelines.
+
+Thank you for your consideration.
 
 With kind regards,
 
