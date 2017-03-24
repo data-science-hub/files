@@ -2,15 +2,21 @@ Thank you for your submission to the Data Science Journal. We are pleased to
 inform you that your paper has been accepted for publication, under the
 condition that you address the remaining minor issues (if any). Please carefully
 take into account the enclosed comments by the reviewers when preparing the
-revised version. Please provide point-by-point responses to the issues raised by
-the reviewers and prepare a separate text file that contains these responses.
+revised version.
+
+Please provide point-by-point responses to the issues raised by the reviewers
+and prepare a separate text file that contains these responses. By submitting
+this point-by-point response you agree that it will be made public on the
+journal website under the same license as the reviews, which is CC-BY
+(https://creativecommons.org/licenses/by/4.0/).
+
 The revised version of the paper is expected within 20 days.
 
 Please visit the link below to see the reviews of the paper. You can click on
 the link on the paper page: "Submit Camera Ready Version" to submit the final
 version.
 
-{{direct_url}}
+{{url}}
 
 Please read and closely follow the instructions below to submit your final
 paper.
@@ -27,7 +33,7 @@ Upload a .zip file containing:
    image files for figures, .bib and .cls files for LaTeX submissions, and .js
    and .css files for HTML submissions
 
-4. A separate text file with responses to the reviewers
+4. A text file with responses to the reviewers
 
 We congratulate you again on having your paper accepted!
 

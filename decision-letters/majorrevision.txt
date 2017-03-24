@@ -1,18 +1,23 @@
 Thank you for your submission to Data Science. We inform you that the acceptance
 or rejection of your manuscript is still UNDECIDED (we don't use "major
 revisions" or "minor revisions"). We ask you to respond to the enclosed comments
-by the reviewers, and to take them into account for your revised version. Please
-provide point-by-point responses to the issues raised by the reviewers, and
-prepare a separate text file that contains these responses. The revised version
-of the paper is expected within 20 days. Your revised version might be sent to
-the reviewers again, and afterward a final decision is made. There won't be a
-third round.
+by the reviewers, and to take them into account for your revised version.
+
+Please provide point-by-point responses to the issues raised by the reviewers
+and prepare a separate text file that contains these responses. By submitting
+this point-by-point response you agree that it will be made public on the
+journal website under the same license as the reviews, which is CC-BY
+(https://creativecommons.org/licenses/by/4.0/).
+
+The revised version of the paper is expected within 20 days. Your revised
+version might be sent to the reviewers again, and afterward a final decision is
+made. There won't be a third round.
 
 Please visit the link below to see the reviews of the paper. To submit a new
 version, upload a new paper to the journal website and mention the tracking
 number of this paper.
 
-{{direct_url}}
+{{url}}
  
 With kind regards,
 
