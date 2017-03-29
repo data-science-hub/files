@@ -11,7 +11,7 @@ Dear {{reviewer}},
 
 We have reached a decision regarding the paper that you helped reviewing. Thank
 you for your input. You can see all reviews and the decision taken at
-{{direct_url}}.
+{{url}} (you might have to login first to see the reviews).
 
 {{tracking_number}}: {{authors}}. {{title}} ({{submission_type}}). {{url}}.
 Assigned editor: {{editor}} ({{editor_email}})
