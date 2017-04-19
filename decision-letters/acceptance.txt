@@ -1,14 +1,15 @@
 Thank you for your submission to the Data Science Journal. We are pleased to
 inform you that your paper has been accepted for publication, under the
-condition that you address the remaining minor issues (if any). Please carefully
-take into account the enclosed comments by the reviewers when preparing the
-revised version.
+condition that you address the remaining minor issues (if any). 
 
-Please provide point-by-point responses to the issues raised by the reviewers
-and prepare a separate text file that contains these responses. By submitting
-this point-by-point response you agree that it will be made public on the
-journal website under the same license as the reviews, which is CC-BY
-(https://creativecommons.org/licenses/by/4.0/).
+[EDITOR: ADD YOUR META-REVIEW HERE!]
+
+Please carefully take into account the enclosed comments by the reviewers when
+preparing the revised version. Provide point-by-point responses to the issues
+raised by the reviewers and prepare a separate text file that contains these
+responses. By submitting this point-by-point response you agree that it will be
+made public on the journal website under the same license as the reviews, which
+is CC-BY (https://creativecommons.org/licenses/by/4.0/).
 
 The revised version of the paper is expected within 20 days.
 
@@ -39,4 +40,4 @@ We congratulate you again on having your paper accepted!
 
 With kind regards,
 
-{{editor}}, Data Science Journal editorial board
+{{editor}}, Data Science editorial board
