@@ -12,13 +12,12 @@ Dear Author,
 We have reached a decision for your paper. Please find below the details.
 
 {{tracking_number}}: {{authors}}. {{title}} ({{submission_type}}). {{url}}.
-Assigned editor: {{editor}} ({{editor_email}})
 
-Decision Letter: {{decision_letter}}
+{{decision_letter}}
 
 The reviews can be found on {{url}} (you might have to login first to see the
 reviews).
 
 With kind regards,
 
-Editors-in-chief, Data Science
+{{editor}} and the editors-in-chief

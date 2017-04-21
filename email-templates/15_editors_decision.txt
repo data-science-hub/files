@@ -10,7 +10,6 @@ Message Text
 The decision letter has been sent. Thank you for your continued support.
 
 {{tracking_number}}: {{authors}}. {{title}} ({{submission_type}}). {{url}}.
-Assigned editor: {{editor}} ({{editor_email}})
 
 With kind regards,
 

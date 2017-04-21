@@ -6,9 +6,3 @@ cannot be accepted for publication at this time.
 Please visit the link below to see the reviews of the paper. Should you wish to
 submit a new version to the Data Science journal, you can upload a new paper to
 the journal website and mention the tracking number of this paper.
-
-{{url}}
-
-With kind regards,
-
-{{editor}}, Data Science editorial board
