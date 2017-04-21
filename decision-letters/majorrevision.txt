@@ -2,7 +2,7 @@ Thank you for your submission to Data Science. We inform you that the acceptance
 or rejection of your manuscript is still UNDECIDED (we don't use "major
 revisions" or "minor revisions").
 
-[EDITOR: ADD YOUR META-REVIEW HERE!]
+[EDITOR: ADD YOUR META-REVIEW HERE! THIS WILL BE MADE PUBLIC UNDER CC-BY]
 
 We ask you to provide a revised version by carefully taking into account the
 enclosed comments by the reviewers. Please provide point-by-point responses to

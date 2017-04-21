@@ -1,7 +1,7 @@
 We regret to inform you that your paper submitted to our Data Science Journal
 cannot be accepted for publication at this time.
 
-[EDITOR: ADD YOUR META-REVIEW HERE!]
+[EDITOR: ADD YOUR META-REVIEW HERE! THIS WILL BE MADE PUBLIC UNDER CC-BY]
 
 Please visit the link below to see the reviews of the paper. Should you wish to
 submit a new version to the Data Science journal, you can upload a new paper to

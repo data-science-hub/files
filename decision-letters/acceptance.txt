@@ -2,7 +2,7 @@ Thank you for your submission to the Data Science Journal. We are pleased to
 inform you that your paper has been accepted for publication, under the
 condition that you address the remaining minor issues (if any). 
 
-[EDITOR: ADD YOUR META-REVIEW HERE!]
+[EDITOR: ADD YOUR META-REVIEW HERE! THIS WILL BE MADE PUBLIC UNDER CC-BY]
 
 Please carefully take into account the enclosed comments by the reviewers when
 preparing the revised version. Provide point-by-point responses to the issues
