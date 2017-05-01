@@ -1,0 +1,32 @@
+Subject
+-------
+
+Request to check revised paper for Data Science
+
+
+Message Text
+------------
+
+Dear {{reviewer}},
+
+We have received a revised version of a manuscript submitted to Data Science,
+and I wanted to ask whether you could check the changes and write a short report
+in the next 10 days?
+
+Manuscript: {{authors}}. {{title}} ({{submission_type}}). {{url}}
+
+You can use this link to accept or decline this review invitation:
+{{orcid_url_email}}
+
+The previous version of the paper can be found here: {{prev_url}}
+
+At this stage, we do not usually require a new detailed review unless necessary,
+we just ask you to check whether your comments and suggestions have been taken
+into account and implemented (notice that usually authors provide a separate
+file with the comments for reviewers).
+
+Thank you for your consideration.
+
+With kind regards,
+
+{{editor}}

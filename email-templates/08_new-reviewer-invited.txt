@@ -24,12 +24,12 @@ therefore be freely accessed and reused.
 Manuscript: {{authors}}. {{title}} ({{submission_type}}). {{url}}
 
 You can use this link to accept or decline this review invitation:
-{{orcid_url}}?mail={{reviewer_email}} (or simply reply to this email)
+{{orcid_url_email}} (or simply reply to this email)
 
 If you decide to accept, I would very much appreciate receiving your review
 within 10 days, to allow for the mentioned fast response to authors.
 
-Instructions for reviewers can be found at {{site_url}}/content/guidelines.
+Instructions for reviewers can be found at {{site_url_guidelines}}.
 
 Thank you for your consideration.
 

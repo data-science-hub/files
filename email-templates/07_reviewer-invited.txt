@@ -29,7 +29,7 @@ You can use this link to accept or decline this review invitation:
 If you decide to accept, I would very much appreciate receiving your review
 within 10 days, to allow for the mentioned fast response to authors.
 
-Instructions for reviewers can be found at {{site_url}}/content/guidelines.
+Instructions for reviewers can be found at {{site_url_guidelines}}.
 
 Thank you for your consideration.
 
