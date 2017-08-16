@@ -67,14 +67,10 @@ to https://datasciencehub.net/content/submit-manuscript
 
 ## Important Dates
 
-Submissions will be accepted from the 1st of October through the 30th of April. 
+Submissions will be accepted from 1 October 2017 until 30 April 2018.
 
-Papers will be reviewed as they are submitted. Initially, editors will proofread
-the paper; if accepted, then two reviewers will be assigned. 
-
-We are aiming for a fast review process of 25 days for the first round of
-reviews. Papers will be published in the special issue as they go through the
-review process.
+We will assign three reviewers for each submitted paper. Reviewers will have 10
+days for a first review, we aim for a first decision within less that 30 days.
 
 
 ## Program Committee
