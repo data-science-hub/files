@@ -1,7 +1,7 @@
 Distributed Ledgers: Making Data Science More Open, Transparent, and Accountable
 ================================================================================
 
-Guest Editors:
+## Guest Editors
 
 - Alexander Garcia, UPM, Spain
 - Maryann Martone, UCSD, USA
