@@ -76,10 +76,7 @@ days for a first review, we aim for a first decision within less that 30 days.
 ## Program Committee
 
 - Alan Third, Open University, UK
-- Peter McBurney, King's College London, UK
-- Manu Sporny, Digital Bazaar, USA
 - Kieron O'Hara, University of Southampton, UK
-- Philip Sheldranke, hi:project, UK
 - Max van Kleek, University of Oxford, UK
 - Luis Daniel Ibanez-Gonzalez, UK
 - Oliver N Oram, Chainvine LTD
