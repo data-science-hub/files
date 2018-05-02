@@ -3,6 +3,8 @@ cannot be accepted for publication at this time.
 
 [EDITOR: ADD YOUR META-REVIEW HERE! THIS WILL BE MADE PUBLIC UNDER CC-BY]
 
-Please visit the link below to see the reviews of the paper. Should you wish to
-submit a new version to the Data Science journal, you can upload a new paper to
-the journal website and mention the tracking number of this paper.
+Please visit the link below to see the reviews of the paper.
+
+We always encourage authors of rejected manuscripts to resubmit their papers if
+they manage to resolve the identified weaknesses and problems. In that case, you
+can mention the tracking number of this paper for the resubmission.
