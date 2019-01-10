@@ -24,7 +24,7 @@ therefore be freely accessed and reused.
 Manuscript: {{authors}}. {{title}} ({{submission_type}}). {{url}}
 
 You can use this link to accept or decline this review invitation:
-{{orcid_url_email}} (or simply reply to this email)
+{{orcid_url_email}}
 
 If you decide to accept, I would very much appreciate receiving your review
 within 10 days, to allow for the mentioned fast response to authors.
