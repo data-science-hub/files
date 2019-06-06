@@ -1,0 +1,119 @@
+Review Form
+===========
+
+Your name will appear here (unless you opt to stay anonymous below).
+
+Overall impression *:
+- Excellent
+- Good
+- Average
+- Weak
+- Bad
+
+Suggested decision *:
+- Accept
+- Undecided
+- Reject
+
+Reviewer's confidence *:
+- High
+- Medium
+- Low
+
+Significance (Does the work address an important problem within the research
+fields covered by the journal?) *:
+- High significance
+- Moderate significance
+- Low significance
+
+Background (Is the work appropriately based on and connected to the relevant
+related work?) *:
+- Comprehensive
+- Reasonable
+- Incomplete or inappropriate
+- Unable to judge
+
+Novelty (For research papers: Does the work provide new insights or new methods
+of a substantial kind? For position papers: Does the work provide a novel and
+potentially disruptive view on the given topic? For survey papers: Does the work
+provide an overview that is unique in its scope or structure for the given
+topic?) *:
+- Clear novelty
+- Limited novelty
+- Lack of novelty
+- Unable to judge
+
+Technical quality (For research papers: Are the methods adequate for the
+addressed problem, are they correctly and thoroughly applied, and are their
+results interpreted in a sound manner? For position papers: Is the advocated
+position supported by sound and thorough arguments? For survey papers: Is the
+topic covered in a comprehensive and well balanced manner, are the covered
+approaches accurately described and compared, and are they placed in a
+convincing common framework?) *:
+- Excellent
+- Good
+- Average
+- Weak
+- Bad
+- Unable to judge
+
+Presentation (Are the text, figures, and tables of the work accessible, pleasant
+to read, clearly structured, and free of major errors in grammar or style?) *:
+- Excellent
+- Good
+- Average
+- Weak
+- Bad
+
+Length of the manuscript *?
+- This manuscript is too long for what it presents and should therefore be
+  considerably shortened (below the general length limit)
+- The length of this manuscript is about right
+- The authors need to elaborate more on certain aspects and the manuscript
+  should therefore be extended (if the general length limit is already reached,
+  I urge the editor to allow for an exception)
+
+Data availability *:
+- All used and produced data (if any) are FAIR and openly available in
+  established data repositories
+- With exceptions that are admissible according to the data availability
+  guidelines, all used and produced data are FAIR and openly available in
+  established data repositories
+- Not all used and produced data are FAIR and openly available in established
+  data repositories; authors need to fix this
+
+Summary of paper in a few sentences (summary of changes and improvements for
+second round reviews) *:
+[TEXT AREA]
+
+Reasons to accept *:
+[TEXT AREA]
+
+Reasons to reject *:
+[TEXT AREA]
+
+Further comments:
+[TEXT AREA]
+
+Upload attachment (optional; use only for things that cannot be expressed in the
+fields above)
+Files must be less than 2MB.
+Allowed file types: html doc docx odt zip pdf.
+
+By submitting this form, you accept that the content above will be made public
+under CC-BY (https://creativecommons.org/licenses/by/4.0/) license. Furthermore,
+you accept that your name and ORCID identifier will be publicly linked to it,
+unless you opt to stay anonymous below.
+
+----------
+EVERYTHING ABOVE THIS LINE WILL BE RETURNED TO THE AUTHORS.
+
+We encourage you to provide an open non-anonymous review. However, you can check
+the box below if you don't want your name to be publicly associated to this
+review.
+
+[ ] I want to remain anonymous, for the following reasons: [TEXT FIELD]
+
+Comments to the editor (optional, this won't be shown to the authors):
+[TEXT AREA]
+
